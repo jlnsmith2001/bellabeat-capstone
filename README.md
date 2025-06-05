@@ -11,7 +11,7 @@ Analyze the relationship between physical activity and weight trends to help Bel
 
 ## Presentation and findings
 [Powerpoint](./https://docs.google.com/presentation/d/1MCfZBCSk3EIMnsgGrMGrtF-C6EHfO80BE4vOOS4lurk/edit?usp=sharing)
-[R script](./bellabeat_analysis.R)
+-[R script](./bellabeat_analysis.R)
 
 Based on my analysis, I recommend that Bellabeat tailor the user experience to encourage more consistent weight logging, as users who logged their weight were more physically active and more likely to meet their fitness goals. 
 
