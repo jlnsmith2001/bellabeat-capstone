@@ -10,7 +10,7 @@ Analyze the relationship between physical activity and weight trends to help Bel
 - Duration of intense physical activity between those who logged and didn't log their weight
 
 ## Presentation and findings
-[Powerpoint](./https://docs.google.com/presentation/d/1MCfZBCSk3EIMnsgGrMGrtF-C6EHfO80BE4vOOS4lurk/edit?usp=sharing)
+[Powerpoint](https://docs.google.com/presentation/d/1MCfZBCSk3EIMnsgGrMGrtF-C6EHfO80BE4vOOS4lurk/edit?usp=sharing)
 
 [R script](./bellabeat_analysis.R)
 
