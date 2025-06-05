@@ -1,4 +1,4 @@
-# bellabeat-capstone
+# Bellabeat Capstone
 Google Data Analysis Capstone using R
 
 ## Business Task
