@@ -1,5 +1,5 @@
 # Bellabeat Capstone
- My first data analysis project using R 
+ My Capstone project using R for basic  analysis as part of the Google Data Analytics Certificate.
 
 ## Business Task
 Analyze the relationship between physical activity and weight trends to help Bella beat personalize fitness guidance and support wellness goals for users.
